@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-rootProject.name = 'identity'
+rootProject.name = 'fineract-cn-identity'
 
 includeBuild 'api'
 includeBuild 'service'

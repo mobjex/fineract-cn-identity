@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-identity.svg)](https://jitpack.io/#mobjex/fineract-cn-identity)
+
 # Apache Fineract CN Identity Manager
 
 This project provides identity management for Apache Fineract CN services.
